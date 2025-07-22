@@ -60,3 +60,6 @@ Once the board is solved, the solution is displayed in the grid, highlighting th
 If the solver cannot find a valid solution, it displays a message to the user indicating that no solution exists. This might occur due to an incorrect initial setup or an unsolvable puzzle configuration.
 
 In summary, this project showcases how a backtracking algorithm can effectively solve Sudoku puzzles by testing all possible configurations and "backtracking" whenever it encounters an invalid state. The approach is both systematic and efficient, ensuring that the solution (if it exists) is found.
+
+
+### Added Ciurcle ci
